@@ -1,7 +1,7 @@
 # RxJTestApp
-RxJava Retrofit Rest API Test app
+RxJava Retrofit Fake Online REST API Test app
 
-Test app with Fake Online REST API
+Test app with 
 RxJava
 Retrofit2
 CardView
